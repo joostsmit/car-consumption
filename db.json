@@ -1,0 +1,39 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "date": 27081981,
+      "milage": 74567,
+      "location": "Argos",
+      "amount":46.79,
+      "price":1.456
+    },
+    {
+      "id": 2,
+      "date": 27081982,
+      "milage": 75567,
+      "location": "Shell",
+      "amount":46.74,
+      "price":1.756
+    },
+    {
+      "id": 3,
+      "date": 29081988,
+      "milage": 94567,
+      "location": "BP",
+      "amount":56.79,
+      "price":1.356
+    },
+    {
+      "id": 4,
+      "date": 29081989,
+      "milage": 98567,
+      "location": "Texaco",
+      "amount":66.80,
+      "price":1.656
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
